@@ -14,4 +14,6 @@ A curated list of awesome papers about polyhedra recovery.
 
 Support function estimation means the reconstruction of convex body from the set of its support function measurements. Main works here are:
 
- * ![][research] _Prince J.L., Willsky A.S_. Reconstructing convex sets from support line measurements // IEEE Transactions on Pattern Analysis and Machine Intelligence. Apr. 1990. 12(4). P. 377-389. URL: https://dspace.mit.edu/bitstream/handle/1721.1/3016/P-17?sequence=1 -- 2D reconstruction problem for uniformly distributed angles.
+|Type|Title|Comment|
+|---|:---|:---|
+|![][research]|[_Prince J.L., Willsky A.S_. Reconstructing convex sets from support line measurements // IEEE Transactions on Pattern Analysis and Machine Intelligence. Apr. 1990. 12(4). P. 377-389](https://dspace.mit.edu/bitstream/handle/1721.1/3016/P-17?sequence=1)|2D reconstruction problem for uniformly distributed angles|
