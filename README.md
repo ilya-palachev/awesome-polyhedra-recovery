@@ -31,7 +31,9 @@ Support function estimation means the reconstruction of convex body from the set
 |![][research]|[_Cai T.T., Guntuboyina A., Wei Y._ Adaptive estimation of planar convex sets // The Annals of Statistics. 2018;46(3):1018-49.](https://projecteuclid.org/euclid.aos/1525313074)|Estimate that has optimal rate in point-wise and body-wise sense.|
 
 ## Probing
+
 Some related works that research probing of convex bodies.
+
 |Type|Title|Comment|
 |---|:---|:---|
 |![][research]|[_Cole R., Yap C.K._ Shape from probing // Journal of Algorithms. 1987 Mar 1;8(1):19-38.](https://www.sciencedirect.com/science/article/pii/0196677487900253)|?_not investigated in detail_; there is also a 1983 technical report with the same title.|
