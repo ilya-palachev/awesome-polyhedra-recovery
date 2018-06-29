@@ -10,7 +10,7 @@ A curated list of awesome papers about polyhedra recovery.
 [other]: https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/emblem-symbolic-link-32.png "Uncategorized"
 [awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg "Awesome list"
 
-## Support function estimation
+## Recovery based on support function measurements
 
 Support function estimation means the reconstruction of convex body from the set of its support function measurements. Main works here are:
 
