@@ -17,6 +17,7 @@ Support function estimation means the reconstruction of convex body from the set
 |Type|Title|Comment|
 |---|:---|:---|
 |![][research]|[_Prince J.L., Willsky A.S._ Reconstructing convex sets from support line measurements // IEEE Transactions on Pattern Analysis and Machine Intelligence. Apr. 1990. 12(4). P. 377-389](https://dspace.mit.edu/bitstream/handle/1721.1/3016/P-17?sequence=1)|2D reconstruction problem for uniformly distributed angles|
+|![][research]|[_Prince J.L._ Geometric model-based estimation from projections. Doctoral dissertation, Massachusetts Institute of Technology, 1988.](https://dspace.mit.edu/bitstream/handle/1721.1/14667/18315465-MIT.pdf?sequence=2)|Prince's PhD thesis with included theory from above Prince&Willsky 1990 paper.|
 |![][research]|[_Lele A.S., Kulkarni S.R., Willsky A.S._ Convex-polygon estimation from support-line measurements and applications to target reconstruction from laser-radar data // JOSA A. 1992 Oct 1;9(10):1693-714.](http://www.princeton.edu/~kulkarni/Papers/Journals/j005_1992_lkw_osa.pdf)|The generalization of (Prince & Willsky 1990) to non-uniform distribution of angles|
 |![][research]|[_Karl W.C., Kulkarni S.R., Verghese G.C., Willsky A.S._ Local tests for consistency of support hyperplane data // Journal of Mathematical Imaging and Vision. 1996 Jun 1;6(2-3):249-67.](https://dspace.mit.edu/bitstream/handle/1721.1/3331/P-2201-29490295.pdf?sequence=1)|3D problem, constraints consistency criterion. No testing on real data.|
 |![][research]|[_Fisher N.I. , Hall P., Turlach B.A., Watson G.S._ On the estimation of a convex set from noisy data on its support function // Journal of the American Statistical Association. 1997 Mar 1;92(437):84-91.](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.1997.10473605)|Convex set estimation based on periodic smoothing methods.|
@@ -28,3 +29,10 @@ Support function estimation means the reconstruction of convex body from the set
 |![][research]|[_Guntuboyina A._ Optimal rates of convergence for convex set estimation from support functions // The Annals of Statistics. 2012;40(1):385-411.](https://projecteuclid.org/download/pdfview_1/euclid.aos/1334581747)|Optimal rates, related to (Gardner et al 2006).|
 |![][research]|[_Cai T., Guntuboyina A., Wei Y._ Adaptive estimation of planar convex sets // arXiv preprint arXiv:1508.03744. 2015 Aug.](https://arxiv.org/abs/1508.03744)|Older, draft preprint version of the below paper.|
 |![][research]|[_Cai T.T., Guntuboyina A., Wei Y._ Adaptive estimation of planar convex sets // The Annals of Statistics. 2018;46(3):1018-49.](https://projecteuclid.org/euclid.aos/1525313074)|Estimate that has optimal rate in point-wise and body-wise sense.|
+
+## Probing
+Some related works that research probing of convex bodies.
+|Type|Title|Comment|
+|---|:---|:---|
+|![][research]|[_Cole R., Yap C.K._ Shape from probing // Journal of Algorithms. 1987 Mar 1;8(1):19-38.](https://www.sciencedirect.com/science/article/pii/0196677487900253)|?_not investigated in detail_; there is also a 1983 technical report with the same title.|
+|![][research]|[_Greschak J.P._ Reconstructing convex sets. Doctoral dissertation, Massachusetts Institute of Technology), 1985.](https://dspace.mit.edu/bitstream/handle/1721.1/15285/13620037-MIT.pdf?sequence=2)|Contents the idea that probing of support function is equal to probing of boundary in the dual space.|
