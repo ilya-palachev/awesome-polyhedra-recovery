@@ -30,6 +30,14 @@ Support function estimation means the reconstruction of convex body from the set
 |![][research]|[_Cai T., Guntuboyina A., Wei Y._ Adaptive estimation of planar convex sets // arXiv preprint arXiv:1508.03744. 2015 Aug.](https://arxiv.org/abs/1508.03744)|Older, draft preprint version of the below paper.|
 |![][research]|[_Cai T.T., Guntuboyina A., Wei Y._ Adaptive estimation of planar convex sets // The Annals of Statistics. 2018;46(3):1018-49.](https://projecteuclid.org/euclid.aos/1525313074)|Estimate that has optimal rate in point-wise and body-wise sense.|
 
+## Alternative approaches
+
+Some research report that the solution of optimization problem for support function estimation is rather large, and propose alternative approaches to reach trade-off in precision and computational complexity.
+
+|Type|Title|Comment|
+|---|:---|:---|
+|![][research]|[_Gregor J., Gleason S.S., Paulus M.J., Cates J._ Fast Feldkamp reconstruction based on focus of attention and distributed computing // International journal of imaging systems and technology. 2002;12(6):229-34.](https://onlinelibrary.wiley.com/doi/abs/10.1002/ima.10027)|"We aim instead to determine the tightest fitting axial cylinder that has a convex cross-section"|
+
 ## Probing
 
 Some related works that research probing of convex bodies.
