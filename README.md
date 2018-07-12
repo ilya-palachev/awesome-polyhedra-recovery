@@ -37,6 +37,7 @@ Some research report that the solution of optimization problem for support funct
 |Type|Title|Comment|
 |---|:---|:---|
 |![][research]|[_Gregor J., Gleason S.S., Paulus M.J., Cates J._ Fast Feldkamp reconstruction based on focus of attention and distributed computing // International journal of imaging systems and technology. 2002;12(6):229-34.](https://onlinelibrary.wiley.com/doi/abs/10.1002/ima.10027)|"We aim instead to determine the tightest fitting axial cylinder that has a convex cross-section"|
+|![][research]|[_Gregor J._ Data-driven problem reduction for image reconstruction from projections using gift wrapping // IEEE Transactions on Nuclear Science. 2011 Jun;58(3):724-9.](https://ieeexplore.ieee.org/abstract/document/5753971/)|Continuation of Gregor's research based on gift wrapping algorithm. It approximates focus of attention with intersection of octagon-based cylinders.|
 
 ## Probing
 
