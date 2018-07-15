@@ -30,13 +30,13 @@ Support function estimation means the reconstruction of convex body from the set
 |![][research]|[_Cai T., Guntuboyina A., Wei Y._ Adaptive estimation of planar convex sets // arXiv preprint arXiv:1508.03744. 2015 Aug.](https://arxiv.org/abs/1508.03744)|Older, draft preprint version of the below paper.|
 |![][research]|[_Cai T.T., Guntuboyina A., Wei Y._ Adaptive estimation of planar convex sets // The Annals of Statistics. 2018;46(3):1018-49.](https://projecteuclid.org/euclid.aos/1525313074)|Estimate that has optimal rate in point-wise and body-wise sense.|
 
-## Alternative approaches
-
-Some research report that the solution of optimization problem for support function estimation is rather large, and propose alternative approaches to reach trade-off in precision and computational complexity.
+## Focus of attention
+Gregor et al (2002) writes about the usage of KKVW's algorithm of support function estimation for the problem of focus of attention estimation in MRI. However, in further research these authors propose other techinuques, that are less precise, but are more efficient. They are:
 
 |Type|Title|Comment|
 |---|:---|:---|
 |![][research]|[_Gregor J., Gleason S.S., Paulus M.J., Cates J._ Fast Feldkamp reconstruction based on focus of attention and distributed computing // International journal of imaging systems and technology. 2002;12(6):229-34.](https://onlinelibrary.wiley.com/doi/abs/10.1002/ima.10027)|"We aim instead to determine the tightest fitting axial cylinder that has a convex cross-section"|
+|![][research]|[_Benson T.M., Gregor J._ Three-dimensional focus of attention for iterative cone-beam micro-CT reconstruction // Physics in Medicine & Biology. 2006 Aug 30;51(18):4533.](http://iopscience.iop.org/article/10.1088/0031-9155/51/18/006/meta)|Development of the above approach.|
 |![][research]|[_Gregor J._ Data-driven problem reduction for image reconstruction from projections using gift wrapping // IEEE Transactions on Nuclear Science. 2011 Jun;58(3):724-9.](https://ieeexplore.ieee.org/abstract/document/5753971/)|Continuation of Gregor's research based on gift wrapping algorithm. It approximates focus of attention with intersection of octagon-based cylinders.|
 
 ## Probing
