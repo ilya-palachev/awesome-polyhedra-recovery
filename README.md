@@ -47,3 +47,14 @@ Some related works that research probing of convex bodies. Probing is equal to s
 |---|:---|:---|
 |![][research]|[_Cole R., Yap C.K._ Shape from probing // Journal of Algorithms. 1987 Mar 1;8(1):19-38.](https://www.sciencedirect.com/science/article/pii/0196677487900253)|?_not investigated in detail_; there is also a 1983 technical report with the same title.|
 |![][research]|[_Greschak J.P._ Reconstructing convex sets. Doctoral dissertation, Massachusetts Institute of Technology), 1985.](https://dspace.mit.edu/bitstream/handle/1721.1/15285/13620037-MIT.pdf?sequence=2)|Contents the idea that probing of support function is equal to probing of boundary in the dual space.|
+
+## Convex support estimation
+
+|Type|Title|Comment|
+|---|:---|:---|
+|![][research]|[_Baldin N., Reiß M._ Unbiased estimation of the volume of a convex body // Stochastic Processes and their Applications. 2016 Dec 1;126(12):3716-32.](https://www.sciencedirect.com/science/article/pii/S0304414916300369)| TODO: fill description.|
+TODO: more papers about this area
+
+## Polyhedral approximation
+
+TODO: fill this section
