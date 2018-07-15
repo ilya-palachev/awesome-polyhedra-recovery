@@ -41,7 +41,7 @@ Gregor et al (2002) writes about the usage of KKVW's algorithm of support functi
 
 ## Probing
 
-Some related works that research probing of convex bodies.
+Some related works that research probing of convex bodies. Probing is equal to support function measurement in the dual space. See Greschak's thesis for details.
 
 |Type|Title|Comment|
 |---|:---|:---|
