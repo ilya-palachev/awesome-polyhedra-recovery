@@ -52,7 +52,10 @@ Some related works that research probing of convex bodies. Probing is equal to s
 
 |Type|Title|Comment|
 |---|:---|:---|
-|![][research]|[_Baldin N., Reiß M._ Unbiased estimation of the volume of a convex body // Stochastic Processes and their Applications. 2016 Dec 1;126(12):3716-32.](https://www.sciencedirect.com/science/article/pii/S0304414916300369)| TODO: fill description.|
+|![][research]|[_Korostelev A.P., Tsybakov A.B._ Asymptotic efficiency in estimation of a convex set // Problemy Peredachi Informatsii. 1994;30(4):33-44.](http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=ppi&paperid=254&option_lang=eng)|Estimation on the plane.|
+|![][research]|[_Korostelev A.P., Tsybakov A.B._ Minimax theory of image reconstruction. – Springer Science & Business Media, 2012. – Т. 82.](http://download1.libgen.io/ads.php?md5=BE44930DA8C0541D60BD536F90991D23)|Large theoretical monograph.|
+|![][research]|[_Baldin N., Reiß M._ Unbiased estimation of the volume of a convex body // Stochastic Processes and their Applications. 2016 Dec 1;126(12):3716-32.](https://www.sciencedirect.com/science/article/pii/S0304414916300369)| Volume estimation.|
+
 TODO: more papers about this area
 
 ## Polyhedral approximation
