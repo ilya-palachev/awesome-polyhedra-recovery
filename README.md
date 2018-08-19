@@ -60,4 +60,4 @@ TODO: more papers about this area
 
 ## Polyhedral approximation
 
-TODO: fill this section
+|![][research]|[_McClure D.E., Vitale R.A._ Polygonal approximation of plane convex bodies // J. Math. Anal. Appl. 1975 Jan 1;51(2):326-58.](http://www.dam.brown.edu/people/dem/publications/1975McClureVitaleJMAA.pdf)|Fundamental best polygonal  approximation in different support function related metrics, and some estimates.|
