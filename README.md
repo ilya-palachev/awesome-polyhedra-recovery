@@ -63,3 +63,4 @@ TODO: more papers about this area
 |Type|Title|Comment|
 |---|:---|:---|
 |![][research]|[_McClure D.E., Vitale R.A._ Polygonal approximation of plane convex bodies // J. Math. Anal. Appl. 1975 Jan 1;51(2):326-58.](http://www.dam.brown.edu/people/dem/publications/1975McClureVitaleJMAA.pdf)|Fundamental best polygonal  approximation in different support function related metrics, and some estimates.|
+|![][research]|[_McClure D.E._ Nonlinear segmented function approximation and analysis of line patterns // Quarterly of Applied Mathematics. 1975;33(1):1-37.](https://www.ams.org/journals/qam/1975-33-01/S0033-569X-1975-0463769-X/S0033-569X-1975-0463769-X.pdf)|Contains proofs of most lemmas in McClure & Vitale 1975|
