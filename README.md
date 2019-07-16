@@ -41,6 +41,11 @@ Support function estimation means the reconstruction of convex body from the set
 |![][research]|_Guntuboyina A._ Optimal rates of convergence for convex set estimation from support functions // [The Annals of Statistics. 2012;40(1):385-411.](https://projecteuclid.org/download/pdfview_1/euclid.aos/1334581747)|Optimal rates, related to [[Gardner et al. 2006](https://projecteuclid.org/download/pdfview_1/euclid.aos/1152540751)].|
 |![][research]|_Cai T., Guntuboyina A., Wei Y._ Adaptive estimation of planar convex sets // [arXiv preprint arXiv:1508.03744. 2015 Aug.](https://arxiv.org/abs/1508.03744)|Older, draft preprint version of the below paper.|
 |![][research]|_Cai T.T., Guntuboyina A., Wei Y._ Adaptive estimation of planar convex sets // [The Annals of Statistics. 2018;46(3):1018-49.](https://projecteuclid.org/euclid.aos/1525313074)|Estimate that has optimal rate in point-wise and body-wise sense.|
+|![][research]|_Soh Y.S., Chandrasekaran V_. Fitting tractable convex sets to support function evaluations // [arXiv preprint arXiv:1903.04194. 2019 Mar 11.](https://arxiv.org/pdf/1903.04194)|Fitting affine images of fixed bodies (e.g. simplicies)|
+|![][code]|[yssoh/cvxreg](https://github.com/yssoh/cvxreg)|Code for the above paper|
+|![][research]|_Soh Y.S_. Fitting Convex Sets to Data: Algorithms and Applications. [Doctoral dissertation, California Institute of Technology, 2019](https://thesis.library.caltech.edu/11208/1/YongSheng_Soh_2019.pdf)|PhD thesis containing above paper's results and a some more|
+|![][research]|_Ghosh A. et al_. Max-Affine Regression: Provable, Tractable, and Near-Optimal Statistical Estimation // [arXiv preprint arXiv:1906.09255. 2019 Jun 21.](https://arxiv.org/pdf/1906.09255)|General algorithm for max-affine regression, which is a generalization of SFE|
+
 
 ## Focus of attention
 Gregor et al (2002) writes about the usage of KKVW's algorithm of support function estimation for the problem of focus of attention estimation in MRI. However, in further research these authors propose other techinuques, that are less precise, but are more efficient. They are:
