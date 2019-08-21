@@ -84,10 +84,11 @@ TODO: more papers about this area
 |![][research]|_Vitale R.A._ Approximation of Convex Set-Valued Functions. [WISCONSIN UNIV-MADISON MATHEMATICS RESEARCH CENTER; 1978 Jan.](http://www.dtic.mil/dtic/tr/fulltext/u2/a054541.pdf)|Bernstein approximation of convex set-valued functions. Not relevant.|
 |![][research]|_Бронштейн Е.М._ Аппроксимация выпуклых множеств многогранниками // [Современная математика. Фундаментальные направления. 2007;22(0):5-37.](http://www.mathnet.ru/rus/cmfd83)|Survey about last achievements in polyhedral approximation.|
 
-## Shadow carving
+## Reconstruction from self shadows and reflections
 
 |Type|Title|Comment|
 |---|:---|:---|
+|![][research]|_Hatzitheodorou M., Kender J.R_. An optimal algorithm for the derivation of shape from shadows // [Proceedings CVPR'88: The Computer Society Conference on Computer Vision and Pattern Recognition 1988 Jun 5 (pp. 486-491)](https://ieeexplore.ieee.org/abstract/document/196279)|?|
 |![][research]|_Savarese S_. Shape reconstruction from shadows and reflections. [PhD dissertation. California Institute of Technology, 2005](https://thesis.library.caltech.edu/2002/1/savarese_thesis.pdf)|Concave objects reconstruction from self-shadows, and specular shape reconstruction.|
 |![][research]|_Savarese S., Chen M., Perona P_. Second order local analysis for 3d reconstruction of specular surfaces // [Proceedings of First International Symposium on 3D Data Processing Visualization and Transmission 2002 Jun 19 (pp. 356-361)](https://ieeexplore.ieee.org/abstract/document/1024083/)|part of above thesis|
 |![][research]|_Savarese S., Chen M., Perona P_. Recovering local shape of a mirror surface from reflection of a regular grid // [European Conference on Computer Vision 2004 May 11 (pp. 468-481)](https://authors.library.caltech.edu/47612/1/sav_eccv04.pdf)|part of above thesis|
@@ -97,3 +98,16 @@ TODO: more papers about this area
 |![][research]|_Savarese S., Rushmeier H., Bernardini F., Perona P_. Shadow carving // [Proceedings Eighth IEEE International Conference on Computer Vision. ICCV 2001 2001 Jul 7 (Vol. 1, pp. 190-197)](http://seminar1.te.ugm.ac.id/pdf/06812_D24C1CFAd01.pdf)|part of above thesis|
 |![][research]|_Savarese S., Rushmeier H., Bernardini F., Perona P_. Implementation of a shadow carving system for shape capture // [Proceedings of First International Symposium on 3D Data Processing Visualization and Transmission 2002 Jun 19 (pp. 12-23)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.2806&rep=rep1&type=pdf)|part of above thesis|
 |![][research]|_Savarese S. et al_. 3d reconstruction by shadow carving: Theory and practical evaluation // [International journal of computer vision. 2007 Mar 1;71(3):305-36.](https://www.researchgate.net/profile/Marco_Andreetto/publication/220660440_3D_Reconstruction_by_Shadow_Carving_Theory_and_Practical_Evaluation/links/0fcfd50a5e15595779000000/3D-Reconstruction-by-Shadow-Carving-Theory-and-Practical-Evaluation.pdf)|part of above thesis|
+
+
+## Reconstruction from silhouettes
+
+[Scholar query: polyhedron reconstruction from silhouette](https://scholar.google.ru/scholar?hl=en&as_sdt=0%2C5&q=polyhedron+reconstruction+from+silhouette&btnG=)
+
+|Type|Title|Comment|
+|---|:---|:---|
+|![][research]|_Franco J.S., Boyer E_. Efficient polyhedral modeling from silhouettes // [IEEE Transactions on Pattern Analysis and Machine Intelligence. 2008 Apr 25;31(3):414-27.](https://hal.inria.fr/inria-00349103/document)|?|
+|![][research]|_Laurentini A_. How many 2D silhouettes does it take to reconstruct a 3D object? // [Computer Vision and Image Understanding. 1997 Jul 1;67(1):81-7.](https://pdfs.semanticscholar.org/5c57/d481c94295e4aa1c185fc9c74d2fe87c599b.pdf)|?|
+_Sinha S.N., Pollefeys M_. Multi-view reconstruction using photo-consistency and exact silhouette constraints: A maximum-flow formulation // [Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1 2005 Oct 17 (Vol. 1, pp. 349-356)](https://s3.amazonaws.com/academia.edu.documents/1621852/2uf7t2yslcwyoqo.pdf?response-content-disposition=inline%3B%20filename%3DMulti-View_Reconstruction_Using_Photo-Co.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20190821%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190821T201350Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=52500df9c9401041b5f687d5532c70fbdba6650c222e94d791450f5f5b4fee8c)|?|
+|![][research]|_Phothong W. et al_. Quality improvement of 3D models reconstructed from silhouettes of multiple images // [Computer-Aided Design and Applications. 2018 May 4;15(3):288-99.](https://www.tandfonline.com/doi/abs/10.1080/16864360.2017.1397881)|?|
+Merras M, Saaidi A, El Akkad N, Satori K. Multi-view 3D reconstruction and modeling of the unknown 3D scenes using genetic algorithms. Soft Computing. 2018 Oct 1;22(19):6271-89.
