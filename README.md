@@ -111,3 +111,13 @@ TODO: more papers about this area
 |![][research]|_Sinha S.N., Pollefeys M_. Multi-view reconstruction using photo-consistency and exact silhouette constraints: A maximum-flow formulation // [Tenth IEEE International Conference on Computer Vision (ICCV'05) Volume 1 2005 Oct 17 (Vol. 1, pp. 349-356)](https://s3.amazonaws.com/academia.edu.documents/1621852/2uf7t2yslcwyoqo.pdf?response-content-disposition=inline%3B%20filename%3DMulti-View_Reconstruction_Using_Photo-Co.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20190821%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190821T201350Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=52500df9c9401041b5f687d5532c70fbdba6650c222e94d791450f5f5b4fee8c)|?|
 |![][research]|_Phothong W. et al_. Quality improvement of 3D models reconstructed from silhouettes of multiple images // [Computer-Aided Design and Applications. 2018 May 4;15(3):288-99.](https://www.tandfonline.com/doi/abs/10.1080/16864360.2017.1397881)|?|
 |![][research]|_Merras M., Saaidi A., El Akkad N., Satori K_. Multi-view 3D reconstruction and modeling of the unknown 3D scenes using genetic algorithms // [Soft Computing. 2018 Oct 1;22(19):6271-89.](https://link.springer.com/article/10.1007/s00500-017-2966-z)|?|
+
+
+## Bayesian inference for inverse problems in tomography
+
+[Scholar query: bayesian inference for polyhedra reconstruction](https://scholar.google.ru/scholar?q=bayesian+inference+for+polyhedra+reconstruction&hl=en&as_sdt=0&as_vis=1&oi=scholart)
+
+|Type|Title|Comment|
+|---|:---|:---|
+|![][research]|_Han F., Zhu S.C_. Bayesian reconstruction of 3d shapes and scenes from a single image // [First IEEE International Workshop on Higher-Level Knowledge in 3D Modeling and Motion Analysis, 2003. HLK 2003. 2003 Oct 17 (pp. 12-20).](https://pdfs.semanticscholar.org/2017/b620df4b2dadb9f556bd56d8f8b85f0ca1eb.pdf)
+|![][research]|_Soussen C., Mohammad-Djafari A_. Polygonal and polyhedral contour reconstruction in computed tomography // [IEEE Transactions on Image Processing. 2004 Nov 1;13(11):1507-23.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.143.3206&rep=rep1&type=pdf)
